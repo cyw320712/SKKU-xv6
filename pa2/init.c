@@ -21,8 +21,6 @@ main(void)
 
   for(;;){
     printf(1, "init: starting sh\n");
-    printf(1, "Student ID: 2017312222\n");
-    printf(1, "Name: Yongwoo Choi\n");
     printf(1, "==========Welcome to xv6==========\n");
     pid = fork();
     if(pid < 0){
