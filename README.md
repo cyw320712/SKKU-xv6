@@ -1,8 +1,8 @@
 # xv6-public
 
 ## Project with xv6 machine
-:star: If there are any errors in the content or if there is anything to be added, please let us know through a Pull Request. <br>
-:star: Thank you for your interest through Star or Watching. :)<br>
+> :star: If there are any errors in the content or if there is anything to be added, please let us know through a Pull Request. <br>
+> :star: Thank you for your interest through Star or Watching. :)<br>
 
 ## Project (SKKU Operating System Class)
 
